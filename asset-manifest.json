@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sravaniKarr/finApp/static/css/main.43cac41f.css",
+    "main.js": "/sravaniKarr/finApp/static/js/main.ae31012f.js",
+    "static/js/787.0895c116.chunk.js": "/sravaniKarr/finApp/static/js/787.0895c116.chunk.js",
+    "static/media/19197319.jpg": "/sravaniKarr/finApp/static/media/19197319.d39606a887545a0df4de.jpg",
+    "static/media/19197200.jpg": "/sravaniKarr/finApp/static/media/19197200.d6ea1a5b8bf48af3b480.jpg",
+    "static/media/Checklist.jpg": "/sravaniKarr/finApp/static/media/Checklist.6badb99b043ed46c126b.jpg",
+    "static/media/424.jpg": "/sravaniKarr/finApp/static/media/424.ec6c467187ec7bb588f6.jpg",
+    "static/media/2317497.jpg": "/sravaniKarr/finApp/static/media/2317497.332225272912c26db4e0.jpg",
+    "static/media/5510773.jpg": "/sravaniKarr/finApp/static/media/5510773.2ee9e17825b748bda0e8.jpg",
+    "static/media/4311700.jpg": "/sravaniKarr/finApp/static/media/4311700.c16a936308003904ed3e.jpg",
+    "static/media/Explore.jpg": "/sravaniKarr/finApp/static/media/Explore.001b77143dba1f3ece27.jpg",
+    "static/media/Analyse.jpg": "/sravaniKarr/finApp/static/media/Analyse.3806fd5dfdf970e4dc2d.jpg",
+    "static/media/Approved.jpg": "/sravaniKarr/finApp/static/media/Approved.bbb6d72abaf600c254ad.jpg",
+    "static/media/Find.jpg": "/sravaniKarr/finApp/static/media/Find.6d4e8d41aa94b310edaa.jpg",
+    "static/media/logo.svg": "/sravaniKarr/finApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sravaniKarr/finApp/index.html",
+    "main.43cac41f.css.map": "/sravaniKarr/finApp/static/css/main.43cac41f.css.map",
+    "main.ae31012f.js.map": "/sravaniKarr/finApp/static/js/main.ae31012f.js.map",
+    "787.0895c116.chunk.js.map": "/sravaniKarr/finApp/static/js/787.0895c116.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43cac41f.css",
+    "static/js/main.ae31012f.js"
+  ]
+}
